@@ -1,0 +1,9 @@
+Privacy Policy
+
+This application is created for development and testing purposes only.
+
+No personal data is stored, sold, or shared with third parties.
+Messages are processed only to provide the intended functionality of the application.
+
+If you have any questions, you can contact:
+email@example.com
